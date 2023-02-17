@@ -1,2 +1,4 @@
 # hand-foundation
-is a repository that will contain all the implementation on the foundation
+will be a projecto to helps charities.
+
+![](https://github.com/andresvanegas19/hand-foundation/blob/main/Image.jpg)
